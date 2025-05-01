@@ -1,0 +1,34 @@
+
+*{                                                                        /*Selector Universal*/
+    background-color: #ffe7d3;}
+body{font-family: Arial, sans-serif;
+    align-content: space-around;
+    text-align: center;
+    color: #8b1c00;
+}
+
+
+h2{
+    color: #005130;
+
+}
+
+p{
+    color: black;
+    text-align: justify;
+}
+
+ul, ol {
+    padding-left: 20px; /* Ajusta la distancia entre la viñeta/número y el texto */
+  }
+  
+  li {
+    padding-left: 10px; /* Ajusta la distancia entre la viñeta/número y el texto */
+  }
+  
+  ul, ol {
+    list-style-position: inside;
+    text-align: center;
+    padding-left: 0;
+    margin: 0 auto;
+  }
